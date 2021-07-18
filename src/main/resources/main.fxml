@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="372.0" prefWidth="583.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kz.f12.school.MainController">
+   <children>
+      <TextField fx:id="from" layoutX="67.0" layoutY="152.0" prefHeight="42.0" prefWidth="169.0" promptText="Введите слово" />
+      <TextField fx:id="translate" layoutX="348.0" layoutY="152.0" prefHeight="42.0" prefWidth="169.0" promptText="Перевод" />
+   </children>
+</Pane>
